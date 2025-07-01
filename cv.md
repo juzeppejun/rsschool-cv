@@ -14,3 +14,9 @@ March 2024 - now
 - Volunteer 
 
 2022 - 2024 
+
+## Languages: 
+* **Belarusian** - Native
+* **Russian** - Native
+* **English** - B2
+* **Polish** - C1
